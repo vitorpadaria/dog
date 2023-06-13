@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+
+#oi{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.botao1{
+    padding: 1%;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(187, 18, 145);
+    font-weight: bold;
+    border-radius: 50px;
+    width: 70px;
+    border: none;
+    cursor: pointer;
+}
